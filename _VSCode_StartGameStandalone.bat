@@ -1,0 +1,1 @@
+start %~dp0Binaries\Win64\UEMockup-Win64-DebugGame.exe -res=640x480 -windowed -log

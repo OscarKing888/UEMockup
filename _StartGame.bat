@@ -1,2 +1,0 @@
-start %~dp0\Binaries\Win64\UEPlugins-Win64-DebugGame.exe 127.0.0.1 -Port=9980 -res=640x480 -windowed -log
-start %~dp0\Binaries\Win64\UEPlugins-Win64-DebugGame.exe 127.0.0.1 -Port=9980 -res=640x480 -windowed -log

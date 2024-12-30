@@ -1,0 +1,2 @@
+start %~dp0Binaries\Win64\UEMockup-Win64-DebugGame.exe 127.0.0.1 -Port=9980 -res=640x480 -windowed -log
+start %~dp0Binaries\Win64\UEMockup-Win64-DebugGame.exe 127.0.0.1 -Port=9980 -res=640x480 -windowed -log
