@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
 #include "Logging/LogMacros.h"
+#include "MockupPlayerCharacter.h"
 #include "UEMockupCharacter.generated.h"
 
 class USpringArmComponent;
@@ -16,7 +17,7 @@ struct FInputActionValue;
 DECLARE_LOG_CATEGORY_EXTERN(LogTemplateCharacter, Log, All);
 
 UCLASS(config=Game)
-class AUEMockupCharacter : public ACharacter
+class AUEMockupCharacter : public AMockupPlayerCharacter
 {
 	GENERATED_BODY()
 
