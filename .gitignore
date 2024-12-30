@@ -76,3 +76,4 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 .vsconfig
 .ignore
+*.code-workspace
